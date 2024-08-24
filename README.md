@@ -56,7 +56,7 @@ Cart Management: Users can view and manage the items in their cart before making
 - 1. Clone this repository:
 
 ```bash
-  https://github.com/jyotipatthak/wishmart
+  
 ```
 
 2. Install dependencies:
@@ -74,22 +74,5 @@ Cart Management: Users can view and manage the items in their cart before making
 
 ## ✨`Deployment`
 
-**Link of gitgub page** : https://github.com/jyotipatthak/wishmart
 
-**Link to wish web app video**: https://youtu.be/12DpNd5jJXo?si=EpFyYPLAUBAc8Dd3
-
-**Web Deployed Link**:  https://wishmart.vercel.app/
-
-## API
-
-**Api which i used** :https://docs.google.com/document/d/19iEA9YereVxkWHDOKZ4iJgl9-8_el6cAFk3tVEKaMqk/edit?usp=sharing
-
-## 🎋 `COLLABORATORS`
-This project is created within a team of two members.
-- [@MD Shahnawaz](https://github.com/Shahnawaz1967)
-- [@jyoti pathak](https://github.com/jyotipatthak)]
-
-##  📚`Feedback`
-
-If you have any feedback, please reach out to us at ashahnawaz010@gmail.com /jyotipathak604@gmail.com
 
